@@ -165,7 +165,7 @@ img {
 
 .slogan-text {
     margin-top: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #00b39b;
     font-size: 2.15em;
     font-family: 'Inter',
@@ -235,21 +235,6 @@ img {
     height: 45px;
 }
 
-/* .country-selection select {
-    width: 320px;
-    height: 45px;
-    
-    color: #fff;
-    background: transparent;
-
-    border: 0;
-    outline: 0;
-    text-decoration: underline;
-    padding: 0 1em 0 1em;
-    cursor: pointer;
-} */
-
-
 .country-selection select {
     background-color: transparent;
     font-size: 20px;
@@ -259,9 +244,8 @@ img {
     text-decoration: underline;
     padding: 5px;
 }
-select{
-    outline: none;
-}
+
+
 
 option {
     color: #000;
@@ -333,7 +317,6 @@ option {
     fill: #747474;
 }
 
-/***********SECOND SECTION**********/
 .stat-section {
     background-color: #e5faf8;
     height: 600px;
@@ -354,9 +337,9 @@ option {
 .stat-desc {
     color: #747474;
     font-size: .875em;
-    font-weight: 400;
+    font-weight: 200;
     line-height: 1.72;
-    padding: 20px 129px;
+    padding: 10px 129px;
 }
 
 .logo-stat {
