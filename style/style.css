@@ -245,8 +245,6 @@ img {
     padding: 5px;
 }
 
-
-
 option {
     color: #000;
     font-size: 15px;
@@ -347,7 +345,6 @@ option {
     width: 440px;
 }
 
-
 .box {
     width: 228px;
     border-radius: 5px;
@@ -385,10 +382,6 @@ option {
     margin-top: 15px;
 }
 
-/***************THIRD SECTION**********/
-
-
-
 .text-container {
     width: 470px;
     margin: 8% 31%;
@@ -402,8 +395,6 @@ option {
     line-height: 1.7;
 
 }
-
-/***********FOURTH SECTION*************/
 
 .image-section {
     display: grid;
