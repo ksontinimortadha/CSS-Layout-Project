@@ -150,7 +150,7 @@ img {
     padding-bottom: 2%;
     display: flex;
     flex-direction: column;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .container-info {
@@ -315,7 +315,7 @@ option {
 
 .logo-stat {
     height: 382px;
-    width: 440px;
+    width: 390px;
 }
 
 .box {
